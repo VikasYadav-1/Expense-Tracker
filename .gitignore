@@ -28,6 +28,3 @@ Backend/temp/
 # IDE and editor files
 .vscode/
 .idea/
-
-# API config (contains base URLs)
-Frontend/expense-tracker/src/utils/apiPaths.js
