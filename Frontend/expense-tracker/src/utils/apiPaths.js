@@ -1,4 +1,4 @@
-export const BASE_URL='https://expense-tracker-backend-beta-two.vercel.app/';
+export const BASE_URL='https://expense-tracker-frontend-two-woad.vercel.app/';
 
 export const API_PATHS = {
     AUTH: {
